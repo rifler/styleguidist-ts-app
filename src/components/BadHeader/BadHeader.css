@@ -1,0 +1,20 @@
+.BadHeader {
+    font-weight: bold;
+    margin: 0;
+}
+
+.BadHeader_level_1 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.BadHeader_level_2 {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.BadHeader_level_3 {
+    font-size: 16px;
+    line-height: 20px;
+}
+

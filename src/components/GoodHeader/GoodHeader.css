@@ -1,0 +1,20 @@
+.GoodHeader {
+    font-weight: bold;
+    margin: 0;
+}
+
+.GoodHeader_level_1 {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.GoodHeader_level_2 {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.GoodHeader_level_3 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
